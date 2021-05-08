@@ -1,0 +1,13 @@
+D:\Universidad\Programacion III\Clases parcial\pilasUmg\pilasUmg\bin\Debug\netcoreapp3.1\pilasUmg.exe
+D:\Universidad\Programacion III\Clases parcial\pilasUmg\pilasUmg\bin\Debug\netcoreapp3.1\pilasUmg.deps.json
+D:\Universidad\Programacion III\Clases parcial\pilasUmg\pilasUmg\bin\Debug\netcoreapp3.1\pilasUmg.runtimeconfig.json
+D:\Universidad\Programacion III\Clases parcial\pilasUmg\pilasUmg\bin\Debug\netcoreapp3.1\pilasUmg.runtimeconfig.dev.json
+D:\Universidad\Programacion III\Clases parcial\pilasUmg\pilasUmg\bin\Debug\netcoreapp3.1\pilasUmg.dll
+D:\Universidad\Programacion III\Clases parcial\pilasUmg\pilasUmg\bin\Debug\netcoreapp3.1\pilasUmg.pdb
+D:\Universidad\Programacion III\Clases parcial\pilasUmg\pilasUmg\obj\Debug\netcoreapp3.1\pilasUmg.csprojAssemblyReference.cache
+D:\Universidad\Programacion III\Clases parcial\pilasUmg\pilasUmg\obj\Debug\netcoreapp3.1\pilasUmg.AssemblyInfoInputs.cache
+D:\Universidad\Programacion III\Clases parcial\pilasUmg\pilasUmg\obj\Debug\netcoreapp3.1\pilasUmg.AssemblyInfo.cs
+D:\Universidad\Programacion III\Clases parcial\pilasUmg\pilasUmg\obj\Debug\netcoreapp3.1\pilasUmg.csproj.CoreCompileInputs.cache
+D:\Universidad\Programacion III\Clases parcial\pilasUmg\pilasUmg\obj\Debug\netcoreapp3.1\pilasUmg.dll
+D:\Universidad\Programacion III\Clases parcial\pilasUmg\pilasUmg\obj\Debug\netcoreapp3.1\pilasUmg.pdb
+D:\Universidad\Programacion III\Clases parcial\pilasUmg\pilasUmg\obj\Debug\netcoreapp3.1\pilasUmg.genruntimeconfig.cache
